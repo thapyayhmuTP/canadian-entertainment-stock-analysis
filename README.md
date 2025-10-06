@@ -84,5 +84,3 @@ All data extraction, processing, and modeling were completed in **Python**.
 
 Data retrieved via **Yahoo Finance API** (`yfinance`) for the period **Aug 2020 – Aug 2025**.  
 Used solely for academic and portfolio demonstration purposes.
-
----
